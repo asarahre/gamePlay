@@ -10,7 +10,8 @@ export const styles = StyleSheet.create({
         backgroundColor: theme.colors.background
     },
     content: {
-        marginTop: -40
+        marginTop: -40,
+        paddingHorizontal: 50
     },
     input: {
         height: 50,
