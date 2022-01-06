@@ -9,11 +9,7 @@ export function SignIn() {
     // const [text, setText] = useState('')
     return (
         <View style={styles.container}>
-            <StatusBar
-                barStyle="light-content"
-                backgroundColor="transparent"
-                translucent={true}
-            />
+
             <Image source={IllustrationImg}
                 style={styles.image}
                 resizeMode="stretch"
