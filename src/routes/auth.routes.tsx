@@ -17,6 +17,7 @@ export function AuthRoutes() {
                 cardStyle: { //Does not work,
                     backgroundColor: 'transparent',
                 },
+
             }}>
 
             <Screen
@@ -27,10 +28,7 @@ export function AuthRoutes() {
                 name="Home"
                 component={Home}
             />
-
         </Navigator>
-
-
     );
 
 }

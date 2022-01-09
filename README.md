@@ -147,4 +147,5 @@
     "**/.settings": true,
     "**/.factorypath": true
   }
+  https://github.com/rocketseat-education/nlw-06-react-native
 }
